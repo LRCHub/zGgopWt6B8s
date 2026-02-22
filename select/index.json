@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "FLIP FLAP",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2026-02-22T17:17:58.079340Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FLIP FLAP FLIP FLAP (TV SIZE)",
+      "artist": "TO-MAS feat. Chima",
+      "has_synced": true,
+      "path": "select/01_FLIP_FLAP_FLIP_FLAP_(TV_SIZE)_TO-MAS_feat._Chima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FLIP FLAP FLIP FLAP",
+      "artist": "TO-MAS feat. Chima",
+      "has_synced": true,
+      "path": "select/02_FLIP_FLAP_FLIP_FLAP_TO-MAS_feat._Chima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flip Flap Flip Flap feat. Chima",
+      "artist": "TO-MAS",
+      "has_synced": true,
+      "path": "select/03_Flip_Flap_Flip_Flap_feat._Chima_TO-MAS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FLIP FLAP FLIP FLAP (TV SIZE)",
+      "artist": "TO-MAS feat. Chima",
+      "has_synced": false,
+      "path": "select/04_FLIP_FLAP_FLIP_FLAP_(TV_SIZE)_TO-MAS_feat._Chima.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flip-Flap (feat. Guf)",
+      "artist": "Noggano",
+      "has_synced": true,
+      "path": "select/05_Flip-Flap_(feat._Guf)_Noggano.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flip Flap (feat. AJ Tracey & Hangzoo)",
+      "artist": "NSW yoon",
+      "has_synced": true,
+      "path": "select/06_Flip_Flap_(feat._AJ_Tracey_&_Hangzoo)_NSW_yoon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FLIP FLAP FLIP FLAP (TV SIZE)",
+      "artist": "TO-MAS",
+      "has_synced": false,
+      "path": "select/07_FLIP_FLAP_FLIP_FLAP_(TV_SIZE)_TO-MAS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FLIP FLAP",
+      "artist": "NILETTO",
+      "has_synced": true,
+      "path": "select/08_FLIP_FLAP_NILETTO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flip Flap",
+      "artist": "Les Forbans",
+      "has_synced": true,
+      "path": "select/09_Flip_Flap_Les_Forbans.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "flip flap",
+      "artist": "Forbans",
+      "has_synced": true,
+      "path": "select/10_flip_flap_Forbans.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TO-MAS feat. Chima -  Flip Flap Flip Flap",
+      "artist": "Anime",
+      "has_synced": true,
+      "path": "select/11_TO-MAS_feat._Chima_-_Flip_Flap_Flip_Flap_Anime.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flip Flap Flop (Passe-Montagne)",
+      "artist": "Passe-Partout",
+      "has_synced": false,
+      "path": "select/12_Flip_Flap_Flop_(Passe-Montagne)_Passe-Partout.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FLIP FLAP",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_FLIP_FLAP_ちゃんみな.txt"
+    }
+  ]
+}
